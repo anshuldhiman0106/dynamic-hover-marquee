@@ -18,6 +18,6 @@ bash
 ```
 git clone https://github.com/your-username/dynamic-hover-marquee.git
 
-cd hover-marquee-animation
+cd dynamic-hover-marquee
 ```
 open index.html  # or simply double-click on it
